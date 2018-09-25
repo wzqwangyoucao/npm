@@ -1,0 +1,22 @@
+{
+  "name": "myaddsecond",
+  "version": "1.0.0",
+  "description": "use to add two munber\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wzqwangyoucao/npm.git"
+  },
+  "keywords": [
+    "add"
+  ],
+  "author": "wzqwangyoucao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzqwangyoucao/npm/issues"
+  },
+  "homepage": "https://github.com/wzqwangyoucao/npm#readme"
+}
